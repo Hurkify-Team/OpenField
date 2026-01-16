@@ -1,0 +1,5 @@
+survey_id,facility_id,facility_name,template_id,survey_type,enumerator_name,status,survey_created_at,answer_id,template_question_id,question,answer,answer_source,confidence_level,is_missing,missing_reason
+1,1,Rejuva,,facility assessment,olamide,COMPLETED,2026-01-15T18:51:20,1,,how long have you been running this facility,5years,,,0,
+1,1,Rejuva,,facility assessment,olamide,COMPLETED,2026-01-15T18:51:20,2,,what is your biggest challenge so far,quackery,,,0,
+3,1,Rejuva,1,Facility Assessment Test Survey,Olamide,DRAFT,2026-01-15T21:57:52,9,1,Survey Title:,facility Assessment,INTERVIEW,HIGH,0,
+3,1,Rejuva,1,Facility Assessment Test Survey,Olamide,DRAFT,2026-01-15T21:57:52,10,2,Survey Title,Facility Assessment,RECORD,MEDIUM,0,
